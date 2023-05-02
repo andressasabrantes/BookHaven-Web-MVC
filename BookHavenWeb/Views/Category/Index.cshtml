@@ -3,6 +3,10 @@
     ViewData["Title"] = "Index";
 }
 
+@if(TempData["success"] != null)
+{
+    <h2>@TempData["success"]</h2>
+}
 
 <div class="container p-3">
     <div class="row pt-4">
@@ -16,7 +20,6 @@
         </div>
     </div>
     <br /><br />
-
 
 <table class="table table bordered table-striped" style="width: 100%">
     <thead>
