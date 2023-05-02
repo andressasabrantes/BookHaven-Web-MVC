@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\BookHaven\\BookHavenWeb\\BookHavenWeb.csproj": {}
+    "C:\\Users\\SMN\\Desktop\\BookHaven-Web-MVC\\BookHavenWeb\\BookHavenWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\BookHaven\\BookHavenWeb\\BookHavenWeb.csproj": {
+    "C:\\Users\\SMN\\Desktop\\BookHaven-Web-MVC\\BookHavenWeb\\BookHavenWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\BookHaven\\BookHavenWeb\\BookHavenWeb.csproj",
+        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\BookHaven-Web-MVC\\BookHavenWeb\\BookHavenWeb.csproj",
         "projectName": "BookHavenWeb",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\BookHaven\\BookHavenWeb\\BookHavenWeb.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\BookHaven\\BookHavenWeb\\obj\\",
+        "projectPath": "C:\\Users\\SMN\\Desktop\\BookHaven-Web-MVC\\BookHavenWeb\\BookHavenWeb.csproj",
+        "packagesPath": "C:\\Users\\SMN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SMN\\Desktop\\BookHaven-Web-MVC\\BookHavenWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SMN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,6 +62,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0-preview.3.23174.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
